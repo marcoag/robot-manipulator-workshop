@@ -38,7 +38,7 @@ $ jupyter notebook
 
 ### Option 3: checkout the notebook (with no option to execute the code)
 
-[Online notebook (read only)](https://nbviewer.jupyter.org/github/marcoag/robot-manipulator-workshop/blob/master/data_science.ipynb)
+[Online notebook (read only)](https://nbviewer.jupyter.org/github/marcoag/robot-manipulator-workshop/blob/master/robot_workshop.ipynb)
 
 Once opened you can see it in presentation mode (by clicking on the icon on the top right corner that looks like a present). 
 Although no style file will be loaded and your presentation background will be plain white.
